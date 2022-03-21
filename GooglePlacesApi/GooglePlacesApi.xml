@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GooglePlacesApi</name>
+    </assembly>
+    <members>
+        <member name="M:GooglePlacesApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param IApplicationBuilder="app"></param>
+            <param IWebHostEnvironment="env"></param>
+        </member>
+    </members>
+</doc>
